@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+.env
+.env.local
+*.pem
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+trivyfs.txt
+trivyimage.txt
+dependency-check-report.xml
+dependency-check-report.html
